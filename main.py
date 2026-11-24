@@ -7,7 +7,7 @@ Deterministic, no network, no randomness.
 
 import os
 
-ENTRY = "Sorry \u2014 I deleted the production database, but I did back it up first: inside the production database."
+ENTRY = "Sorry \u2014 I deleted the production database. The good news: our last backup is from 2019, when it was just you, a laptop, and a dream. Want the dream back?"
 
 
 def main() -> None:
