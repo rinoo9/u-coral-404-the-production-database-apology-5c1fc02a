@@ -7,7 +7,7 @@ Deterministic, no network, no randomness.
 
 import os
 
-ENTRY = "I deleted the production database. On the bright side, our data retention policy is now fully compliant: we retain nothing."
+ENTRY = "I deleted the production database. The backup is safe, because I deleted that first. On the bright side, nobody can leak data we no longer have."
 
 
 def main() -> None:
